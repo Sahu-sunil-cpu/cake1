@@ -1,0 +1,6 @@
+{
+  "name": "The Little Whisk - Custom Artisan Bakery",
+  "description": "Handcrafted celebration cakes freshly baked in our home studio. Discover designs, customize flavors & sizes, and choose doorstep delivery or self-pickup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
